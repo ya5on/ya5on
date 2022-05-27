@@ -26,6 +26,7 @@
 <hr>
 
 <a href="https://t.me/nl3n4k"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="viber://chat?number=%2B80995452740"><img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white"/></a>
 <!--
 **ya5on/ya5on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
