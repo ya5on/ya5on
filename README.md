@@ -23,6 +23,9 @@
   <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="webstorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" />
 </p>
+<hr>
+
+<a href="https://t.me/nl3n4k"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <!--
 **ya5on/ya5on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
