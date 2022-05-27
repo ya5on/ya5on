@@ -25,6 +25,6 @@
 </p>
 <hr>
 
-<h2>- 💬 Ask me about ... <h2/>
-<a href="https://t.me/nl3n4k"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<h3>- 💬 Ask me about ... <a href="https://t.me/nl3n4k"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a><h2/>
+
 
